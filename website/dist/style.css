@@ -1,0 +1,31 @@
+.header {
+    text-align: center;
+    font: 2em sans-serif;
+    padding-top: 2%;
+    color: blue;
+}
+
+/* input{
+        font-size: 1rem;
+        color: red; */
+/* } */
+
+
+.search_box{
+    /* background-color: khaki; */
+    border-radius: 5%;
+    height: 50%;
+    padding-top: 5%;
+    
+}
+
+
+.submitbtn{
+    font-size: 1rem;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.result{
+    padding: 3%;
+}
